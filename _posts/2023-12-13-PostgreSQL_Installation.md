@@ -324,7 +324,7 @@ $ sudo systemctl status postgresql-137
        Docs: man:systemd-sysv-generator(8)
 ```
 
-> There is wrapper for [Source Code Installation](#source-code-installation), which is called [pyenv](https://github.com/pyenv/pyenv). Using this it makes the installation easier for you to install any available PostgreSQL version with just few commands. There is customization in that as well but if it is covered in this post then it will become much longer post, so I avoided that. Go through the [documentation](https://github.com/pyenv/pyenv) to know more about it.
+> There is wrapper for [Source Code Installation](#source-code-installation), which is called [pgenv](https://github.com/theory/pgenv). Using this it makes the installation easier for you to install any available PostgreSQL version with just few commands. There is customization in that as well but if it is covered in this post then it will become much longer post, so I avoided that. Go through the [documentation](https://github.com/theory/pgenv) to know more about it.
 {: .prompt-tip }
 
 # Conclusion
