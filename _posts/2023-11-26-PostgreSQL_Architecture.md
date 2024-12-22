@@ -3,6 +3,7 @@ title: PostgreSQL Architecture
 date: 2023-11-26 19:11:00 +0530
 categories: [PostgreSQL, Notes]
 tags: [postgresql, architecture]
+toc: true
 ---
 
 In this post, we will go over PostgreSQL architecture, including Physical and Memory and how they interact with each other. Please consider this post as a basic and an overview of how PostgreSQL operates, if you require detailed information on the architecture, request you to go through the community documentation which has this information in detail. PostgreSQL is a relational database management system with a client-server architecture. At server side, the PostgreSQL's processes and shared memory will work together and build an instance/cluster, which will be handling the access to the data. Client programs connect to the instance/cluster and request read and write operations.

@@ -3,6 +3,7 @@ title: Configuration Files in PostgreSQL
 date: 2024-01-07 12:24:00 +0530
 categories: [PostgreSQL, Notes]
 tags: [postgresql, notes]
+toc: true
 ---
 
 In PostgreSQL there are several configuration files which are used to configure the cluster work in certain way. Using these configuration files, we can administer our PostgreSQL cluster. In this post, I will discuss essential configuration files.

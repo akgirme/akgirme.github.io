@@ -3,6 +3,7 @@ title: Installation of PostgreSQL server
 date: 2023-12-13 23:53:00 +0530
 categories: [PostgreSQL, Notes]
 tags: [postgresql, installation]
+toc: true
 ---
 
 In this post we will go over two methods of installing a PostgreSQL server. Both of the methods have their pros and cons, so I will also try to go over those. I will be using RHEL (Red Hat Enterprise Linux) and Ubuntu because most of the servers are either running these operating systems or an operating system which is a flavor of them. Reason for not including Windows is, as per my experience there is very rare scenario where some organization will go for installation of a PostgreSQL on Windows.

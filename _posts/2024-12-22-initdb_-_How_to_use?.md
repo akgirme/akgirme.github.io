@@ -3,6 +3,7 @@ title: initdb - How to use?
 date: 2024-12-04 15:15:00 +0530
 categories: [PostgreSQL, Utilities & Extensions]
 tags: [postgresql, notes, utilities, extensions]
+toc: true
 ---
 
 In my previous post about PostgreSQL software installation ([Source code installation](/posts/PostgreSQL_Installation/#source-code-installation)), I used a command called `initdb` to create a database cluster. In this post, I'll try to go a dive deeper into some of the options that can be used in real world, so that creation of cluster can be tailored to our specific needs.

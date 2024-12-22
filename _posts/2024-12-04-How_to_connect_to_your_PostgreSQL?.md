@@ -3,6 +3,7 @@ title: How to connect to your PostgreSQL?
 date: 2024-12-04 12:24:00 +0530
 categories: [PostgreSQL, Practical]
 tags: [postgresql, notes, practical]
+toc: true
 ---
 
 The post title might look like a clickbait but let me assure that this is not. Basically, there are engineers like me who only understand the theory by practically doing it. So in my [previous post](/posts/Configuration_Files_in_PostgreSQL), I discussed Configuration files in PostgreSQL and in this post I will guide how these configuration files plays a role in granting the access to the database cluster. The configuration files will be used are `postgresql.conf` and `pg_hba.conf`.
