@@ -5,7 +5,7 @@ categories: [PostgreSQL, Utilities & Extensions]
 tags: [postgresql, notes, utilities, extensions]
 ---
 
-In my previous post about PostgreSQL software installation ([Source code installation](/_posts/2023-12-13-PostgreSQL_Installation.md#source-code-installation)), I used a command called `initdb` to create a database cluster. In this post, I'll try to go a dive deeper into some of the options that can be used in real world, so that creation of cluster can be tailored to our specific needs.
+In my previous post about PostgreSQL software installation ([Source code installation](/posts/PostgreSQL_Installation/#source-code-installation)), I used a command called `initdb` to create a database cluster. In this post, I'll try to go a dive deeper into some of the options that can be used in real world, so that creation of cluster can be tailored to our specific needs.
 
 As per the [official documentation](https://www.postgresql.org/docs/current/app-initdb.html), the main purpose of this utility is to create a new PostgreSQL database cluster. In the package installation, the command is automatically run which takes the default values to create the database cluster but if we want to customize the PostgreSQL database cluster then we have to make use of this command/utility.
 
